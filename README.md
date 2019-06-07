@@ -1,4 +1,5 @@
-[Updated version compatible with safari 13.0](https://github.com/umetzu/CleanLinksForGoogle)
+Find the new updated version compatible with Safari 13 in the new repo [CleanLinksForGoogle](https://github.com/umetzu/CleanLinksForGoogle)
+=====================
 
 DisableGoogleRedirect
 =====================
